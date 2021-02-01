@@ -1,5 +1,7 @@
 # SimpleSideNav
 
+[see](https://itnext.io/simple-sliding-side-bar-for-your-angular-web-apps-d54fef7c1654)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0-next.2.
 
 ## Development server
